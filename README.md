@@ -1,2 +1,5 @@
 # first-repository
-just to try GitHub
+Just to try GitHub
+
+Tropical Fruits are the best.
+Idly is the Healthiest breakfast
